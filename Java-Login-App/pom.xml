@@ -25,7 +25,7 @@
 
 		<!-- Sonar Properties -->
 		<sonar.organization>bankolejohn</sonar.organization>
-		<sonar.projectKey>1141a4a7dfc91cd5b3a18d277439b3d8c262b7cd</sonar.projectKey>
+		<sonar.projectKey>bankolejohn_devops-project-01</sonar.projectKey>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
